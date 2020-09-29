@@ -2,6 +2,7 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
+relativeURLs = "true"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 
