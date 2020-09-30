@@ -1,6 +1,6 @@
 ---
 title: A nagy böjttúra
-date: 2020-10-01T08:14:34+02:00
+date: 2020-09-29T08:14:34+02:00
 description: This is meta description.
 
 ---
